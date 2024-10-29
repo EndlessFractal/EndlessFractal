@@ -4,7 +4,7 @@ I'm a self-taught developer from Portugal 🇵🇹
 
 **About me**
 
-- 💼 Currently working as a Junior SOC Analyst!
+- 💼 Currently working as a Junior Linux System Administrator!
 
 - ❤️ I love writing code in Python and building fun scripts!
 
