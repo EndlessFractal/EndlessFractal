@@ -8,7 +8,7 @@ I'm a self-taught developer from Portugal 🇵🇹
 
 - ❤️ I love writing code in Python and building fun scripts!
 
-- 💬 Ask me about anything [here](https://github.com/NotoriusNeo/NotoriusNeo/issues)
+- 💬 Ask me about anything [here](https://github.com/EndlessFractal/EndlessFractal/issues)
 
 #### Languages:
 
