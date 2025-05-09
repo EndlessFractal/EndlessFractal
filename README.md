@@ -8,7 +8,7 @@ I'm a self-taught developer from Portugal 🇵🇹
 
 - ❤️ I love writing code in Python and building fun scripts!
 
-- 💬 Ask me about anything [here](https://github.com/EndlessFractal/EndlessFractal/issues)
+- 💬 Ask me about anything [here](https://github.com/EndlessFractal/EndlessFractal/issues)!
 
 #### Languages:
 
@@ -18,5 +18,5 @@ I'm a self-taught developer from Portugal 🇵🇹
 
 #### IDE's:
 
-<picture><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"></picture>&nbsp;
+<picture><img src="https://img.shields.io/badge/VSCodium-378fed.svg?style=for-the-badge&logo=VSCodium&logoColor=white" alt="Visual Studio Code"></picture>&nbsp;
 <picture><img src="https://img.shields.io/badge/Sublime%20Text-404040.svg?style=for-the-badge&logo=sublime-text&logoColor=ff9800" alt="Sublime Text"></picture>&nbsp;
