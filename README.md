@@ -1,22 +1,29 @@
 ### Hi there, I'm EndlessFractal 👋
 
-I'm a self-taught developer from Portugal 🇵🇹 
+🚀 Junior Linux System Administrator  
+🐍 Python Enthusiast  
+🇵🇹 Proudly from Portugal  
+📚 Constantly learning and breaking things  
+🗨️ Ask me anything [here](https://github.com/EndlessFractal/EndlessFractal/issues)  
 
-**About me**
+---
 
-- 💼 Currently working as a Junior Linux System Administrator!
+### 🛠️ Tech Stack
 
-- ❤️ I love writing code in Python and building fun scripts!
+#### **Languages**
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=fff)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=fff)
 
-- 💬 Ask me about anything [here](https://github.com/EndlessFractal/EndlessFractal/issues)!
+#### **Development Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-404040?style=for-the-badge&logo=sublime-text&logoColor=FF9800)
+![VSCodium](https://img.shields.io/badge/VSCodium-378fed?style=for-the-badge&logo=vscodium&logoColor=fff)
 
-#### Languages:
-
-<picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></picture>&nbsp;
-<picture><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell script"></picture>&nbsp;
-<picture><img src="https://img.shields.io/badge/PowerShell-0277bd?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></picture>&nbsp;
-
-#### IDE's:
-
-<picture><img src="https://img.shields.io/badge/VSCodium-378fed.svg?style=for-the-badge&logo=VSCodium&logoColor=white" alt="Visual Studio Code"></picture>&nbsp;
-<picture><img src="https://img.shields.io/badge/Sublime%20Text-404040.svg?style=for-the-badge&logo=sublime-text&logoColor=ff9800" alt="Sublime Text"></picture>&nbsp;
+#### **Currently Exploring**
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![k3s](https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=fff)
+![n8n](https://img.shields.io/badge/k3s-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
